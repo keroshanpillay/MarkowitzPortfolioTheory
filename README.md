@@ -65,12 +65,16 @@ Mean-Variance Optimization is a quantitative tool that allows investors to make 
    git clone https://github.com/keroshanpillay/MarkowitzPortfolioTheory.git
    cd mean-variance-optimization
   ```
+
 2. **Create a Virtual Environment**
+
   ```python
   python -m venv venv
   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
   ```
+
 3. **Install the libraries**
+
   ```python
   pip install numpy pandas matplotlib scipy ipython
   ```
