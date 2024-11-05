@@ -17,7 +17,7 @@ This repository provides a comprehensive Jupyter notebook that serves as a pract
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
