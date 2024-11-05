@@ -119,7 +119,7 @@ Contributions are welcome! If you have suggestions for improvements or want to a
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Ackowledgements
+## Acknowledgements
 
 - Harry Markowitz: 1952, 1959, 1961
 
