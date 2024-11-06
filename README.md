@@ -122,8 +122,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgements
 
 Special thanks to Harry Markowitz for his foundational work in portfolio theory. Key references:
+
 Markowitz, H. M. (1952). Portfolio selection. The Journal of Finance, 7(1), 77-91.
+
 Markowitz, H. M. (1959). Portfolio Selection: Efficient Diversification of Investments. New York: John Wiley & Sons.
+
 Markowitz, H. M. (1991). Foundations of Portfolio Theory. The Journal of Finance, 46(2), 469-477.
 
 
