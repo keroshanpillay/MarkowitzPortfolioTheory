@@ -121,36 +121,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
-- Harry Markowitz: 1952, 1959, 1961
-
-  @article{markowitz1952portfolio,
-  title={Portfolio selection},
-  author={Markowitz, Harry M},
-  journal={The Journal of Finance},
-  volume={7},
-  number={1},
-  pages={77--91},
-  year={1952},
-  publisher={Wiley Online Library}
-}
-
-@article{markowitz1991nobel,
-  title={Foundations of Portfolio Theory},
-  author={Markowitz, Harry M},
-  journal={The Journal of Finance},
-  volume={46},
-  number={2},
-  pages={469-477},
-  year={1991},
-  publisher={Wiley Online Library}
-}
-
-@book{markowitz1959portfolio,
-  title={Portfolio Selection: Efficient Diversification of Investments},
-  author={Markowitz, Harry M},
-  year={1959},
-  publisher={John Wiley \& Sons},
-  address={New York}
-}
+Special thanks to Harry Markowitz for his foundational work in portfolio theory. Key references:
+Markowitz, H. M. (1952). Portfolio selection. The Journal of Finance, 7(1), 77-91.
+Markowitz, H. M. (1959). Portfolio Selection: Efficient Diversification of Investments. New York: John Wiley & Sons.
+Markowitz, H. M. (1991). Foundations of Portfolio Theory. The Journal of Finance, 46(2), 469-477.
 
 
